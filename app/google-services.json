@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "877381549937",
+    "firebase_url": "https://monitoreoautopista.firebaseio.com",
+    "project_id": "monitoreoautopista",
+    "storage_bucket": "monitoreoautopista.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877381549937:android:c9326919792fb8324e00d0",
+        "android_client_info": {
+          "package_name": "com.mcr.monitoreoautopista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877381549937-cs9sba2ph9ecoqu9bq23g272si5nd761.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mcr.monitoreoautopista",
+            "certificate_hash": "7862bfc77d1efc72850419ff98f3cbca2333a4d6"
+          }
+        },
+        {
+          "client_id": "877381549937-dcan71gfebj1iim2qccoejsvl2lulse5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkfwmm2bb37AYqtJVS7cpDXPqRBFvxShs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877381549937-dcan71gfebj1iim2qccoejsvl2lulse5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877381549937:android:9d0cd6d39f22eb414e00d0",
+        "android_client_info": {
+          "package_name": "com.mcr.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877381549937-mv3licncu0lmhmmh80ocl7v75kr12q8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mcr.notificaciones",
+            "certificate_hash": "16b7857075b76026f5dedc2bd50f383e93fd555e"
+          }
+        },
+        {
+          "client_id": "877381549937-dcan71gfebj1iim2qccoejsvl2lulse5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkfwmm2bb37AYqtJVS7cpDXPqRBFvxShs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877381549937-dcan71gfebj1iim2qccoejsvl2lulse5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
